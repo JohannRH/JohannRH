@@ -1,0 +1,36 @@
+name: Update GitHub Stats SVG
+
+on:
+  # Este evento activará el flujo de trabajo en cualquier push realizado a cualquier repositorio
+  push:
+    branches:
+      - '*'
+
+jobs:
+  update-svg:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+
+    - name: Install dependencies
+      run: |
+        npm install
+
+    - name: Run updateSVG script
+      run: |
+        node updateSVG.js
+
+    - name: Commit and push updated SVG
+      run: |
+        git config --local user.name "GitHub Actions"
+        git config --local user.email "actions@github.com"
+        git add updated-capy.svg
+        git commit -m "Actualizar SVG con datos de GitHub"
+        git push origin main
