@@ -88,7 +88,8 @@ text, tspan {white-space: pre;}
   <tspan x="580" y="520" class="value">                 . Traveling</tspan>
   <tspan x="580" y="540" class="value">                 . Physical Health</tspan>
   
-  <tspan x="580" y="570" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">johannrestrepoh@gmail.com</tspan>
+  <tspan x="580" y="570" class="cc">. </tspan><tspan class="key">Email</tspan>
+  <tspan x="580" y="590" class="value"><tspan class="cc">      ........ </tspan>johannrestrepoh@gmail.com</tspan>
 </text>
 
   
