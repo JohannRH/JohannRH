@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="1000px" font-size="16px">
-<style>
-  .cc {fill: #6a737d;}
-  text, tspan {white-space: pre;}
-</style>
-
-<rect width="985px" height="1000px" fill="#161b22" stroke="#ffffff" stroke-width="2"/>
-
-<!-- LinkedIn ASCII -->
-<text x="100" y="100" fill="#0077B5" font-size="20px">
-  <tspan x="100" y="100">  ###################  </tspan>
-  <tspan x="100" y="120">#######################</tspan>
-  <tspan x="100" y="140">##### #################</tspan>
-  <tspan x="100" y="160">####   ################</tspan>
-  <tspan x="100" y="180">#######################</tspan>
-  <tspan x="100" y="200">#####  ###  #    ######</tspan>
-  <tspan x="100" y="220">#####  ###   ###  #####</tspan>
-  <tspan x="100" y="240">#####  ###  ####  #####</tspan>
-  <tspan x="100" y="260">#####  ###  ####  #####</tspan>
-  <tspan x="100" y="280">#####  ###  ####  #####</tspan>
-  <tspan x="100" y="300">#######################</tspan>
-  <tspan x="100" y="320">#######################</tspan>
-  <tspan x="100" y="340">  ###################  </tspan>
-</text>
-
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100px" height="100px" font-size="10px">
+    <style>
+      .ascii { font-family: monospace; white-space: pre; }
+      .cc {fill: #616e7f;}
+      .link {fill: #0077b5;}
+    </style>
+    <!-- Fondo oscuro con bordes redondeados -->
+    <rect width="100" height="100" fill="#161b22"  stroke="#ffffff" stroke-width="2"/>
+    
+    <!-- Nuevo Logo ASCII de LinkedIn con texto claro -->
+    <text x="13" y="23" fill="#0077B5" class="ascii">
+      <tspan x="13" y="23"> ########### </tspan>
+      <tspan x="13" y="33">## ##########</tspan>
+      <tspan x="13" y="43">#############</tspan>
+      <tspan x="13" y="53">## ## ### ###</tspan>
+      <tspan x="13" y="63">## ## ### ###</tspan>
+      <tspan x="13" y="73">## ## ### ###</tspan>
+      <tspan x="13" y="83"> ########### </tspan>
+    </text>
+  </svg>
