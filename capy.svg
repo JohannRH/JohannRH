@@ -25,6 +25,8 @@ text, tspan {white-space: pre;}
   <tspan x="100" y="120">      ====   </tspan>
   <tspan x="100" y="140">       ==    </tspan>
 </text>
+<text x="140" y="180" fill="#42b883" font-size="20px">Vue.js</text>
+
 
 <text x="260" y="20" fill="#00C58E" class="ascii">
   <tspan x="260" y="20">    ####  ##</tspan>
@@ -34,6 +36,7 @@ text, tspan {white-space: pre;}
   <tspan x="260" y="100">##   ###      ##</tspan>
   <tspan x="260" y="120">######  #######</tspan>
 </text>
+<text x="300" y="180" fill="#00C58E" font-size="20px">Nuxt</text>
 
 <text x="460" y="20" fill="#f7df1e" class="ascii">
   <tspan x="460" y="20">..................</tspan>
@@ -44,6 +47,7 @@ text, tspan {white-space: pre;}
   <tspan x="460" y="120">.........@.....@..</tspan>
   <tspan x="460" y="140">......@@@...@@@@..</tspan>
 </text>
+<text x="480" y="180" fill="#f7df1e" font-size="20px">JavaScript</text>
 
 <text x="680" y="20" fill="#3178c6" class="ascii">
   <tspan x="680" y="20">-------------------</tspan>
@@ -54,6 +58,7 @@ text, tspan {white-space: pre;}
   <tspan x="680" y="120">-------#-------##--</tspan>
   <tspan x="680" y="140">-------#----####---</tspan>
 </text>
+<text x="710" y="180" fill="#3178c6" font-size="20px">TypeScript</text>
   
 <text x="15" y="220" fill="#c9d1d9" class="ascii">
   <tspan x="15" y="220">             %%%%%#    #%%%%%%%%#                      </tspan>
