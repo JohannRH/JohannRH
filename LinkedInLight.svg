@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="150px" height="150px" font-family="Consolas, monospace" font-size="16px">
+  <style>
+    .ascii {fill: #0A66C2; font-size: 14px;}
+  </style>
+  <rect width="150px" height="150px" fill="#ffffff" stroke="#0A66C2" stroke-width="2" rx="15" />
+  <text x="15" y="30" fill="#0A66C2" font-size="16px">  .:::::::.</text>
+  <text x="15" y="45" fill="#0A66C2">  :::::::::::.</text>
+  <text x="15" y="60" fill="#0A66C2">  :::::::::::.</text>
+  <text x="15" y="75" fill="#0A66C2">  :::::::::::.</text>
+  <text x="15" y="90" fill="#0A66C2">  .:::::::::.</text>
+  <text x="15" y="105" fill="#0A66C2">  :::.::::::.</text>
+  <text x="15" y="120" fill="#0A66C2">  .:::::::.  </text>
+  <text x="15" y="135" fill="#0A66C2">  .::::::::.</text>
+</svg>
