@@ -71,7 +71,7 @@ text, tspan {white-space: pre;}
    <!-- Personal Information - moved to the right -->
 <text x="580" y="340" fill="#c9d1d9" class="ascii">
   <!-- Personal Info header -->
-  <tspan x="580" y="340">- Personal Info -———————————————————————-</tspan>
+  <tspan x="580" y="340" fill="#24292e">- Personal Info -———————————————————————-</tspan>
   
   <!-- Personal Info details with line breaks after commas -->
   <tspan x="580" y="360" class="cc">. </tspan><tspan class="key">Name</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Johann</tspan>
