@@ -17,7 +17,7 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="1600px" fill="#161b22" rx="15"/>
 <text x="100" y="20" fill="#42b883" class="ascii">
-  <tspan x="100" y="20">===%%    %%===</tspan>
+  <tspan x="100" y="20"> ===%%    %%===</tspan>
   <tspan x="100" y="40">  ===%%+ %%===</tspan>
   <tspan x="100" y="60">   ===%%%%=== </tspan>
   <tspan x="100" y="80">    ===%%===  </tspan>
