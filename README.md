@@ -5,3 +5,9 @@
   </picture>
 </a>
 
+<a href="https://www.linkedin.com/in/johann-restrepo-b0aa85267/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohannRH/JohannRH/main/LinkedIn.svg">
+    <img alt="LinkedIn Profile" src="https://raw.githubusercontent.com/JohannRH/JohannRH/main/LinkedInLight.svg">
+  </picture>
+</a>
